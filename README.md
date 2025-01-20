@@ -8,3 +8,9 @@ Chassis:The robot's foundation, or chassis, offers a sturdy surface on which to 
 Wheels: The robot can move and maneuver more easily thanks to its two pairs of wheels. The wheels are made to minimize friction and offer sufficient traction, enabling effective movement on a variety of surfaces.
 Motor Mounts: To make room for the driving motors, integrated motor mounts are positioned carefully. In addition to providing convenient access for assembly or maintenance, this design guarantees that the motors are firmly fastened.
 Modularity: The design includes mounting slots that let customers quickly install more parts, including sensors or extra payloads. The robot's adaptability to various applications is increased by its modular design.
+
+# Robot dimensions
+* width: 103mm
+* Length: 90mm
+* height: 33mm
+
